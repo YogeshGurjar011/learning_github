@@ -1,1 +1,7 @@
-hii i am teaching git and this is version 2
+hii i am teaching git and this is version 1.
+
+
+
+
+hyy i am doing good 
+this is version 2
